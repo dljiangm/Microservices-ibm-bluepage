@@ -4,7 +4,7 @@
 	Get bluepage info for ant IBMers.
 
 # What is feature?
-	It is a Spring boot web applicaion. Simpe and Light.
+	It is a Spring boot web applicaion. Simpe and Light, since Micorservice is very hot in IBM.
 	
 # How to start it?
 	1. Build jar file after download code, example: Micro-ibm-bulepage-1.0.jar
