@@ -1,3 +1,4 @@
 # Microservice-ibm-bluepage
 
-The app is builed and used based on Spring boot.
+What it is for?
+  Get bluepage info for ant IBMers
