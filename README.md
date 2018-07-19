@@ -11,9 +11,10 @@
 	2. Start the applicaion in server, example: java -jar "filepath"/Micro-ibm-bulepage-1.0.jar
 
 # How to call the application and get bluepage info?
-	The application applies a RESTful API via HTTP + GET, default port is 800.
+	The application applies a RESTful API via HTTP + GET + JSON, default port is 800.
 	Example url: http://localhost:8002/bluepage/xxxxx@xx.ibm.com
 	"xxxxx@xx.ibm.com" is the e-mail id that you need to pass via the API.
 	
 # What will have in future?
-	Enable Eureka registry based on Spring cloud.
+	1. Enable Eureka registry based on Spring cloud.
+	2. Apply XML response.
