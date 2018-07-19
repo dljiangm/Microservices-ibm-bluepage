@@ -13,3 +13,4 @@
 # How to call the application and get bluepage info?
 	The application applies a RESTful API via HTTP + GET, default port is 800.
 	Example url: http://localhost:8002/bluepage/xxxxx@xx.ibm.com
+	"xxxxx@xx.ibm.com" is the e-mail id that you need to pass via the API.
