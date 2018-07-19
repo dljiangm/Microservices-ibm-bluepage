@@ -1,7 +1,7 @@
 # Microservice-ibm-bluepage
 
 # What it is for?
-	Get bluepage info for ant IBMers.
+	Get bluepage info for an IBMer.
 
 # What is feature?
 	It is a Spring boot web applicaion. Simpe and Light, since Micorservice is very hot in IBM.
