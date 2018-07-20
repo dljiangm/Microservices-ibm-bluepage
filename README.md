@@ -7,7 +7,7 @@
 	It is a Spring boot web applicaion. Simpe and Light, since Micorservice is very hot in IBM.
 	
 # How to run?
-	Spring boot application:
+	Standalone Spring boot application:
 	1. Build jar file after download code. Jar file example: Micro-ibm-bulepage-1.0.jar
 	2. Start the applicaion in server. Command example: java -jar "filepath"/Micro-ibm-bluepage-1.0.jar
 	
