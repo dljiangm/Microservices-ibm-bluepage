@@ -9,11 +9,11 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controller {
 	
 	@Autowired
-	private BluepageService bulepageService;
+	private BluepageService bluepageService;
 	
     @GetMapping("/bluepage/{email:.+}")
 	public String simple(@PathVariable String email) throws Exception {
-    		return this.bulepageService.get(email);
+    		return this.bluepageService.get(email);
 	}
     
 }

@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.micro</groupId>
-	<artifactId>Micro-ibm-bulepage</artifactId>
+	<artifactId>Micro-ibm-bluepage</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
-	<name>Micro-ibm-bulepage</name>
+	<name>Micro-ibm-bluepage</name>
 	<description>Project for Spring Boot</description>
 
 	<parent>
