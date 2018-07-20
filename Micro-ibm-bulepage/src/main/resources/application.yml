@@ -11,3 +11,7 @@ rest:
   timeout:
     connect: 1000
     read: 1000
+    
+logging:
+  level:
+    root: ERROR
