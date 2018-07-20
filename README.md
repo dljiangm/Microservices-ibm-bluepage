@@ -8,7 +8,7 @@
 	
 # How to run?
 	1. Build jar file after download code. Jar file example: Micro-ibm-bulepage-1.0.jar
-	2. Start the applicaion in server. Command example: java -jar "filepath"/Micro-ibm-bulepage-1.0.jar
+	2. Start the applicaion in server. Command example: java -jar "filepath"/Micro-ibm-bluepage-1.0.jar
 
 # How to call the application and get bluepage info?
 	The application applies a RESTful API via HTTP + GET + JSON, default port is 800.
