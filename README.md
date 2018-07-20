@@ -18,3 +18,4 @@
 # What will have in future?
 	1. Enable Eureka registry based on Spring cloud.
 	2. Apply XML response.
+	3. Apply Dockerfile
